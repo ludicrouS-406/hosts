@@ -1,4 +1,5 @@
 echo "starting ip checking"
+echo "izzy forked this repo"
 flag=0
 while read p; do
 	if [[ "$flag" == 1 ]]; then
